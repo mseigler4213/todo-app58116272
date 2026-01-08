@@ -1,1 +1,1 @@
-Welcome to branching in Git!
+This line will conflict with main.
