@@ -1,1 +1,1 @@
-This line is from main and will also conflict.
+Final version after resolving conflict.
